@@ -16,9 +16,9 @@ If `osmium-tool` from homebrew-core is installed, remove it to avoid conflicts:
 
 Then:
 
-`brew install vgeorge/osmium-tool/<formula>`
+`brew install vgeorge/osmium-tool/<formula> --build-from-source`
 
-Or `brew tap vgeorge/osmium-tool` and then `brew install <formula>`.
+Or `brew tap vgeorge/osmium-tool` and then `brew install <formula> --build-from-source`.
 
 ## Documentation
 
