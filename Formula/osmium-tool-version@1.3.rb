@@ -1,4 +1,4 @@
-class OsmiumToolAT13 < Formula
+class OsmiumToolVersionAT13 < Formula
   desc "Libosmium-based command-line tool for processing OpenStreetMap data"
   homepage "https://osmcode.org/osmium-tool/"
   url "https://github.com/osmcode/osmium-tool/archive/v1.13.2.tar.gz"
